@@ -1,0 +1,184 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #000000;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.reetika-madan {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1 {
+  background: #000000;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 997px;
+  top: 31px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 {
+  background: #000000;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1116px;
+  top: 31px;
+}
+.about2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-3 {
+  background: #000000;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1237px;
+  top: 31px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.budt-748-industry-practicum {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 91px;
+  top: 310px;
+  width: 887px;
+  height: 78px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.one-of-my-courses-this-semester-is-industry-practicum-budt-748-where-we-collaborate-with-real-organizations-to-address-their-business-challenges-rather-than-traditional-lectures-the-class-functions-like-a-consulting-engagement-my-team-gathers-requirements-designs-solutions-and-develops-prototypes-that-clients-can-put-into-practice-it-s-a-hands-on-opportunity-to-apply-everything-i-ve-learned-in-the-msis-program-and-create-impact-beyond-the-classroom {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 406px;
+  width: 1258px;
+  height: 177px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 18px;
+  top: 654px;
+  width: 419px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.professor-paul-t-shapiro-span {
+  font-family: "Inter-Bold", sans-serif;
+  font-weight: 700;
+}
+.professor-paul-t-shapiro-span2 {
+  font-family: "Inter-Regular", sans-serif;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder {
+  color: #ffffff;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 66px;
+  top: 707px;
+  width: 760px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span {
+  font-family: "Inter-Bold", sans-serif;
+  font-weight: 700;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span2 {
+  font-family: "Inter-Regular", sans-serif;
+}
+.semester-details-fall-2025 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 79px;
+  top: 601px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.semester-details-fall-2025-span {
+  font-family: "Inter-Bold", sans-serif;
+  font-weight: 700;
+}
+.semester-details-fall-2025-span2 {
+  font-family: "Inter-Regular", sans-serif;
+}
